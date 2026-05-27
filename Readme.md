@@ -648,7 +648,7 @@ Every day:
 
 # 📧 Connect With Me
 
-GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+GitHub: [https://github.com/Shu40](https://github.com/Shu40)
 
 ---
 
