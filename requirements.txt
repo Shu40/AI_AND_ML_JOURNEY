@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
+jupyter
+notebook
+scipy
+statsmodels
+plotly
+opencv-python
+nltk
+transformers
+torch
+torchvision
